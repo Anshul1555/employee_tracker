@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    // "allowImportingTsExtensions": true,
+    "moduleResolution": "nodenext",
+    "allowSyntheticDefaultImports": true,
+    "module": "NodeNext",
+    "rootDir": ".",  // This makes sure files in the root folder (like index.ts) are included
+    "allowJs": true,
+    "checkJs": true,
+    "outDir": "dist",
+    "noEmitOnError": true,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "exactOptionalPropertyTypes": true,
+    "noImplicitReturns": true
+  },
+  "include": ["index.ts", "src/**/*.ts"]  // Include index.ts and any .ts files in the src folder
+}
