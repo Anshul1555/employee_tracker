@@ -58,4 +58,5 @@ Walkthrough Video
 To see a demonstration of the application in action, watch the walkthrough video:
 
 Walkthrough Video Link:
-(https://github.com/user-attachments/assets/7fda4c3d-5475-4188-9d31-ec32a125b274)
+
+[](https://github.com/user-attachments/assets/7fda4c3d-5475-4188-9d31-ec32a125b274)
