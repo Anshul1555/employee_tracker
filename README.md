@@ -58,4 +58,4 @@ Walkthrough Video
 To see a demonstration of the application in action, watch the walkthrough video:
 
 Walkthrough Video Link:
-<!-- Uploading "Screen Recording 2025-03-04 at 12.04.14 AM.mov"... -->
+(https://github.com/user-attachments/assets/7fda4c3d-5475-4188-9d31-ec32a125b274)
